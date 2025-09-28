@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x 3 orojas orojas 4096 Sep 28 14:23 ./
+drwxr-xr-x 3 orojas orojas 4096 Sep 28 14:21 ../
+drwxr-xr-x 7 orojas orojas 4096 Sep 28 14:21 .git/
+-rw-r--r-- 1 orojas orojas    0 Sep 28 14:23 f1.txt
